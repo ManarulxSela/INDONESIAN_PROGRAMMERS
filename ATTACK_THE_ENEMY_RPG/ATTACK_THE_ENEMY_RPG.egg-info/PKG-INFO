@@ -1,3 +1,16 @@
+Metadata-Version: 2.1
+Name: ATTACK-THE-ENEMY-RPG
+Version: 1
+Summary: This package contains implementation of the offline RPG "ATTACK_THE_ENEMY_RPG" on command line interface.
+Home-page: https://github.com/GlobalCreativeApkDev/INDONESIAN_PROGRAMMERS/tree/main/ATTACK_THE_ENEMY_RPG
+Author: GlobalCreativeApkDev
+Author-email: globalcreativeapkdev2022@gmail.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 # ATTACK_THE_ENEMY_RPG
 
 **Attack The Enemy RPG** is an offline RPG where the player can face an infinite number of rounds.

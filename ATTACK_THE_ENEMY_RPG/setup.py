@@ -11,7 +11,7 @@ setup(
     name='ATTACK_THE_ENEMY_RPG',
     version='1',
     packages=['ATTACK_THE_ENEMY_RPG'],
-    url='https://github.com/GlobalCreativeApkDev/INDONESIAN_PROGRAMMERS/tree/vio1/ATTACK_THE_ENEMY_RPG',
+    url='https://github.com/GlobalCreativeApkDev/INDONESIAN_PROGRAMMERS/tree/main/ATTACK_THE_ENEMY_RPG',
     license='MIT',
     author='GlobalCreativeApkDev',
     author_email='globalcreativeapkdev2022@gmail.com',
