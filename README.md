@@ -20,7 +20,7 @@ In this repo, one directory in https://github.com/GlobalCreativeApkDev/INDONESIA
 
 | Name  | Author(s)  | Progress  |
 |---|---|---|
-| ![ATTACK_THE_ENEMY_RPG](https://github.com/GlobalCreativeApkDev/INDONESIAN_PROGRAMMERS/tree/main/ATTACK_THE_ENEMY_RPG)   | ![GlobalCreativeApkDev](https://github.com/GlobalCreativeApkDev)  | Complete  |
+| [ATTACK_THE_ENEMY_RPG](https://github.com/GlobalCreativeApkDev/INDONESIAN_PROGRAMMERS/tree/main/ATTACK_THE_ENEMY_RPG)   | [GlobalCreativeApkDev](https://github.com/GlobalCreativeApkDev)  | Complete  |
 
 **Indonesian**
 
@@ -42,4 +42,4 @@ Di repo in, satu folder di https://github.com/GlobalCreativeApkDev/INDONESIAN_PR
 
 | Nama  | Developer  | Kondisi Pengerjaan  |
 |---|---|---|
-| ![ATTACK_THE_ENEMY_RPG](https://github.com/GlobalCreativeApkDev/INDONESIAN_PROGRAMMERS/tree/main/ATTACK_THE_ENEMY_RPG)   | ![GlobalCreativeApkDev](https://github.com/GlobalCreativeApkDev)  | Selesai  |
+| [ATTACK_THE_ENEMY_RPG](https://github.com/GlobalCreativeApkDev/INDONESIAN_PROGRAMMERS/tree/main/ATTACK_THE_ENEMY_RPG)   | [GlobalCreativeApkDev](https://github.com/GlobalCreativeApkDev)  | Selesai  |
