@@ -14,6 +14,8 @@ WhatsApp group (https://chat.whatsapp.com/F87QSdrExDl5AfHPn8h3sl) members!
 
 Do not immediately commit to "main" branch. This will cause merge conflicts.
 
+In this repo, one directory in https://github.com/GlobalCreativeApkDev/INDONESIAN_PROGRAMMERS represents one application project.
+
 **Indonesian**
 
 Repo ini mengandung aplikasi-aplikasi yang dibuat para anggota grup WhatsApp "INDONESIAN PROGRAMMERS" 
@@ -25,3 +27,7 @@ WhatsApp group (https://chat.whatsapp.com/F87QSdrExDl5AfHPn8h3sl)!
 2. Buatlah branch baru dari "main" branch.
 3. Push commit-commit Anda ke branch yang Anda bikin.
 4. Bikin pull request dari branch Anda ke "main" branch.
+
+Jangan langsung commit ke "main" branch. Soalnya nanti akan ada merge conflict.
+
+Di repo in, satu folder di https://github.com/GlobalCreativeApkDev/INDONESIAN_PROGRAMMERS mewakilkan satu proyek aplikasi.
